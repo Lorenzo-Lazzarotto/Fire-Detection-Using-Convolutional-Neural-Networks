@@ -12,7 +12,7 @@ The data loading section was done using TensorFlow Datasets, a different approac
 
 The final results can be found with more details displayed in the "Evaluations" section inside with the jupyter notebook. The following metric was achieved in the validation set:
 
-- **Accuracy:**
+- **Accuracy:** 97.08%
 
 ## Goals
 
